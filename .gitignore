@@ -1,0 +1,29 @@
+node_modules
+.env
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
+
+contracts/artifacts
+
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments
+
+# VS Code
+.vscode
+
+# npm
+package-lock.json
+
+gas-report.txt
+
+/.states
